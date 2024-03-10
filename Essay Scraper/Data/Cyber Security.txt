@@ -1,0 +1,26 @@
+Cyber Security Essay
+Cybersecurity means protecting data, networks, programs and other information from unauthorized or unattended access, destruction or change. In today’s world, cybersecurity is very important because of some security threats and cyber-attacks. For data protection, many companies develop software. This software protects the data. Cybersecurity is important because not only it helps to secure information but also our system from virus attack. After the U.S.A. and China, India has the highest number of internet users.
+Cyber Threats
+It can be further classified into 2 types. Cybercrime – against individuals, corporates, etc.and Cyberwarfare – against a state.
+Cyber Crime
+Use of cyberspace, i.e. computer, internet, cellphone, other technical devices, etc., to commit a crime by an individual or organized group is called cyber-crime. Cyber attackers use numerous software and codes in cyberspace to commit cybercrime. They exploit the weaknesses in the software and hardware design through the use of malware. Hacking is a common way of piercing the defenses of protected computer systems and interfering with their functioning. Identity theft is also common.
+Cybercrimes may occur directly i.e,  targeting the computers directly by spreading computer viruses. Other forms include DoS attack. It is an attempt to make a machine or network resource unavailable to its intended users. It suspends services of a host connected to the internet which may be temporary or permanent.
+Malware is a software used to disrupt computer operation, gather sensitive information, or gain access to private computer systems. It usually appears in the form of code, scripts, active content, and other software. ‘Malware’ refers to a variety of forms of hostile or intrusive software, for example, Trojan Horses, rootkits, worms, adware, etc.
+Another way of committing cybercrime is independent of the Computer Network or Device. It includes Economic frauds. It is done to destabilize the economy of a country, attack on banking security and transaction system, extract money through fraud, acquisition of credit/debit card data, financial theft, etc.
+Hinder the operations of a website or service through data alteration, data destruction. Others include using obscene content to humiliate girls and harm their reputation, Spreading pornography, threatening e-mail, assuming a fake identity, virtual impersonation. Nowadays misuse of social media in creating intolerance, instigating communal violence and inciting riots is happening a lot.
+Get the huge list of more than 500 Essay Topics and Ideas
+Cyber Warfare
+Snowden revelations have shown that Cyberspace could become the theatre of warfare in the 21st century. Future wars will not be like traditional wars which are fought on land, water or air. when any state initiates the use of internet-based invisible force as an instrument of state policy to fight against another nation, it is called cyberwar’.
+It includes hacking of vital information, important webpages, strategic controls, and intelligence. In December 2014 the cyberattack a six-month-long cyberattack on the German parliament for which the Sofacy Group is suspected. Another example 2008 cyberattack on US Military computers. Since these cyber-attacks, the issue of cyber warfare has assumed urgency in the global media.
+Inexpensive Cybersecurity Measures
+The simplest thing you can do to up your security and rest easy at night knowing your data is safe is to change your passwords.
+You should use a password manager tool like LastPass, Dashlane, or Sticky Password to keep track of everything for you. These applications help you to use unique, secure passwords for every site you need while also keeping track of all of them for you.
+An easy way for an attacker to gain access to your network is to use old credentials that have fallen by the wayside. Hence delete unused accounts.
+Enabling two-factor authentication to add some extra security to your logins. An extra layer of security that makes it harder for an attacker to get into your accounts.
+Keep your Softwares up to date.
+Conclusion
+Today due to high internet penetration, cybersecurity is one of the biggest need of the world as cybersecurity threats are very dangerous to the country’s security. Not only the government but also the citizens should spread awareness among the people to always update your system and network security settings and to the use proper anti-virus so that your system and network security settings stay virus and malware-free.
+Share with friends
+Facebook
+Twitter
+WhatsApp

@@ -1,0 +1,41 @@
+500+ Words Essay on My Ambition
+Almost everyone dreams of something while growing up. We all have ambitions when we are little, which change as we grow up. Ambitions lead us to a definite aim in life. Furthermore, they help us focus on our goal no matter the cost. It drives us to do better in life. Ambitions differ from one person to another.
+However, one common thing usually found is that over time, people switch their ambition to something else than that which they wished to be when little. We have many people in the medical field who wanted to be dancers. Similarly, some of the greatest politicians wanted to be artists. So we see how easily one gives up on their dreams and ambition to adapt to society.
+My Ambition
+The ambition of any person’s life usually depends on their choice and interests. I aspire to be a great dancer. I have always had the knack for dancing from an early age. My parents always encouraged me to pursue my passion. Like most of the parents, they never discouraged me because it is not the most sought after career.
+Subsequently, I wish to become a good dancer. I do not want the fame of being a dancer; rather I want the acclaim of being a good dancer. As my parents motivated me to pursue my dream, they enrolled me in dance classes. It helped me grow a lot as a dancer and also enhance my skills.
+Most importantly, I wish to be a dance because I want to remove the stigma surrounding this career path. I want to set an example that you can do well in life if you’re not a doctor or engineer. Especially in India, where these two ambitions are considered the most valid.
+I believe in the power of dance, and how it conveys the message without words. Dance is the language of the soul, and it makes me feel alive when I indulge in it.
+Get the huge list of more than 500 Essay Topics and Ideas
+Why I Chose this Ambition?
+It would seem odd to choose to be a dancer as an ambition, especially when everyone is in the race of becoming a lawyer, doctor or engineer. But, I still believe that just because something is not common, doesn’t mean we cannot attain it.
+Most importantly, I aspire to become a great dancer to set an example for aspiring dancers. These aspiring kids are discouraged from pursuing dance because of lack of financial perks or social stigma. However, I wish to change that.
+I wish to dance so I could teach others to become experts in this field. Furthermore, I wish to help the underprivileged section who are interested in this ambition. I want to reach a height which enables me to offer them proper dance training free of cost so they can reach great heights.
+Above all, I wish to be the wind beneath their wings. I want to create awareness about the importance of dance and how it benefits us physically as well. I hope I can achieve this ambition of mine someday. Till then, I won’t leave any stone unturned in reaching the finish line.
+FAQ on My Ambition Essay
+Q.1 How do ambitions help people?
+A.1 Ambitions helps people in focusing their mind to achieve a set goal. Furthermore, it trains them to be better in achieving their ambition.
+Q.2 Why must one have an ambition?
+A.2 We all must have at least one ambition to achieve in life. It teaches us the importance of discipline and hard work. Having ambition gives you something to look forward to each day. In addition, it makes you determined.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “How do ambitions help people?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Ambitions helps people in focusing their mind to achieve a set goal. Furthermore, it trains them to be better in achieving their ambition.”
+}
+}, {
+“@type”: “Question”,
+“name”: “Why must one have an ambition?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”We all must have at least one ambition to achieve in life. It teaches us the importance of discipline and hard work. Having ambition gives you something to look forward to each day. In addition, it makes you determined.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

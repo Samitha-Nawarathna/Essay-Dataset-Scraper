@@ -1,0 +1,36 @@
+500+ Words Essay on Population
+Population refers to the total number of beings living in a particular area. Population helps us get an estimate of the number of beings and how to act accordingly. For instance, if we know the particular population of a city, we can estimate the number of resources it needs. Similarly, we can do the same for animals. If we look at the human population, we see how it is becoming a cause of concern. In particular, the third world countries suffer the most from population explosion. As it is the resources there are limited and the ever-increasing population just makes it worse. On the other hand, there is a problem of low population in many regions.
+India population crisis
+India faces a major population crisis due to the growing population. If we were to estimate, we can say that almost 17% of the population of the world lives in India alone. India ranks second in the list of most populated countries.
+Furthermore, India is also one of the countries with low literacy rates. This factor contributes largely to the population explosion in India. It is usually seen that the illiterate and poor classes have a greater number of children. This happens mainly because they do not have sufficient knowledge about birth control methods. In addition, more people in a family are equals to more helping hands. This means they have better chances of earning.
+Moreover, we also see how these classes practice early marriage. This makes it one of the major reasons for a greater population. People marry off their young daughters to men way older than them for money or to get free from their responsibility. The young girl bears children from an early age and continues to do so for a long time.
+As India is facing a shortage of resources, the population crisis just adds on to the problem. It makes it quite hard for every citizen to get an equal share of resources. This makes the poor poorer and the rich richer.
+Get the huge list of more than 500 Essay Topics and Ideas
+Impact of Population Explosion
+The human population explosion not only affects humans but also our environment and wildlife. We have seen so many species of birds and animals go extinct because of various factors. As more population requires more resources, deforestation is happening at a faster rate which takes away the homes of these animals. Similarly, their habitat is being destroyed owing to human activities.
+Subsequently, pollution levels are on the rise because of the population explosion. As more and more humans are purchasing automobiles, our air is getting polluted. Moreover, the increased need calls for faster rates of industrialization. These industries pollute our water and lands, harming and degrading our quality of life.
+In addition, our climate is also facing drastic changes because of human activities. Climate change is real and it is happening. It is impacting our lives very harmfully and must be monitored now. Global warming which occurs mostly due to activities by humans is one of the factors for climate change.
+Humans are still able to withstand the climate and adapt accordingly, but animals cannot. This is why wildlife is getting extinct as well.
+In other words, man always thinks about his well-being and becomes selfish. He overlooks the impact he is creating on the surroundings. If the population rates continue to rise at this rate, then we won’t be able to survive for long. As with this population growth comes harmful consequences. Therefore, we must take measures to control the population.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Why is India having a population crisis?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “India suffers from a population crisis because the literacy rate is very low. This causes other problems which contribute to population growth.”
+}
+}, {
+“@type”: “Question”,
+“name”: “What is the impact of population explosion?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”Population explosion has a very harmful impact on wildlife and vegetation. Animals are getting extinct due to it and climate change is also happening.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

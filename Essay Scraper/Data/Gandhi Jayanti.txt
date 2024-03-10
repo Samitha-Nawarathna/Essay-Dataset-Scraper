@@ -1,0 +1,35 @@
+500+ Words Essay on Gandhi Jayanti
+Gandhi Jayanti is a major national festival whose celebration occurs on 2nd October in India. Most noteworthy, this festival celebrates the birth anniversary of Mohandas Karamchand Gandhi. Furthermore, Gandhi Jayanti is one of the three national holidays of India. 2nd October has been declared as the International Day of Non-Violence by the United Nations. The festival is certainly a momentous occasion in India.
+Significance of Gandhi Jayanti
+Mahatma Gandhi was born in India under British rule. He was certainly the most prominent individual in the Indian Independence struggle. Mahatma Gandhi has the honour of the title of “father of the nation”. This was due to his persistent paramount efforts for India’s independence.
+Gandhi had a family of the merchant class. This confident man went to South Africa at 24 years of age. He went there to pursue law. His return from South Africa came in 1915. Then he became a member of the Indian National Congress. Due to his relentless hard work, he soon became the president of Congress.
+Mahatma Gandhi’s efforts were not restricted to Indian independence only. The man also fought various kinds of social evils. These social evils were untouchability, casteism, female subjugation, etc. Furthermore, he also made significant efforts to help the poor and needy.
+Mahatma Gandhi had a great dislike for the British rule in India. However, he was not in favour of the path of violence. Gandhi strictly was a believer in the philosophy of Ahimsa (non-violence). Consequently, the man opposed British rule in a peaceful manner. Furthermore, Gandhi’s peaceful protests and movements were highly effective. His methods and plans were very efficient. Due to his incredible effectiveness, Gandhiji became an inspiration for other World leaders. Once again, Gandhi was bestowed with another title of Mahatma. The meaning of the word Mahatma is a great soul. His birthday was made into a day of magnificent remembrance and celebration.
+Get the huge list of more than 500 Essay Topics and Ideas
+Commemoration of Mahatma Gandhi
+First of all, Gandhi Jayanti is nothing but a grand commemoration of Mahatma Gandhi. Gandhi Jayanti is certainly one of the national holidays of India. This patriotic occasion’s celebration is held in every State and Union territory.
+Prayer services and tributes take place on the occasion of Gandhi Jayanti. These prayer services and tributes take place all over the country. Furthermore, various prayer meetings and commemorative ceremonies also occur on Gandhi Jayanti. These events take place in schools, colleges, government, and private institutions. Most noteworthy, people from all walks of life take part in such events.
+Competitions of painting, essay, etc. take place everywhere. Furthermore, there is a distribution of awards for such competitions. Students in many schools and colleges also watch documentaries and performances on Mahatma Gandhi’s life. Consequently, there is a promotion of a non-violent way of life among the youth. There are also singing events of Gandhiji’s favourite Bhajan( Hindu devotional song). Another observance is the decoration of Gandhi statues with flowers and garlands. Finally, some individuals avoid eating meat or drinking alcohol on Gandhi Jayanti.
+Gandhi Jayanti honors the great personality of Mahatma Gandhi. It’s an opportunity to reflect and cherish the life of this great personality. Furthermore, everyone must try to live like him on this day. Gandhi Jayanti is certainly a very patriotic day in India.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Which social evils did Mahatma Gandhi fought against?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Mahatma Gandhi certainly fought against many social evils. Some of these are untouchability, casteism, and female subjugation.”
+}
+}, {
+“@type”: “Question”,
+“name”: “How does the promotion of a non-violent way of life among the youth takes place on Gandhi Jayanti?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”On the occasion of Gandhi Jayanti there is certainly a promotion of the non-violent way of life among the youth. This is because students watch documentaries and performances on Mahatma Gandhi’s life. Above all, this takes place in many schools and colleges in India.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

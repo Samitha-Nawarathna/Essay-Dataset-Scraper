@@ -1,0 +1,37 @@
+500+ Words Essay on Globalization
+Environment refers to the natural surroundings and conditions in which we live. Unfortunately, this Environment has come under serious threat. This threat is almost entirely due to human activities. These human activities have certainly caused serious damage to the Environment. Most noteworthy, this damage risks the survival of living things on Earth. Therefore, there is an urgent need to save the Environment.
+Ways of Saving Environment
+First of all, planting trees should be given massive attention. Above all, a tree is the source of oxygen. Unfortunately, due to construction, many trees have been cut down. This certainly reduces the amount of oxygen in the environment. Growing more trees means more oxygen. Hence, growing more trees would mean better life quality.
+Similarly, people must give attention to forest conservation. Forests are vital for the Environment. However, deforestation certainly reduces the area of forests around the World. The government must launch programs to conserve the forests. The government must make harming forests a criminal offense.
+Soil conservation is yet another important way to save the Environment. For this, there must be control of landslides, floods, and soil erosion. Furthermore, there should also be afforestation and tree plantation to conserve the soil. Also, terrace farming and using natural fertilizers are some more ways.
+Waste management is a powerful way of protecting the environment. There must be proper disposal of wastes. Most noteworthy, this would help to keep the surroundings healthy. The government must ensure to clean the streets and other polluted land areas. Furthermore, there should be toilets in every house. Also, the government must provide enough public toilets.
+Pollution is probably the biggest danger to the Environment. Smoke, dust, and harmful gases cause air pollution. These causes of air pollution come from industries and vehicles mostly. Furthermore, Chemicals and pesticides cause land and water pollution.
+Get the huge list of more than 500 Essay Topics and Ideas
+Benefits of Saving Environment
+First of all, the world climate will remain normal. Harming the Environment and causing pollution have caused global warming. Due to this many humans and animals have died. Hence, saving the environment would reduce global warming.
+The health of people would improve. Due to pollution and deforestation, the health of many people is poor. Conserving the Environment would certainly improve the health of people. Most noteworthy, saving Environment would reduce many diseases.
+Saving Environment would certainly protect the animals. Extinction of many species will not take place due to saving Environment. Many endangered species would also increase in population.
+The water level would rise. Damage to Environment has severely reduced the level of groundwater. Furthermore, there is a scarcity of clean drinking water around the World. Due to this, many people fell ill and die. Saving Environment would certainly avoid such problems.
+In conclusion, Environment is a precious gift on this planet. Our Environment is facing a big danger. Saving Environment is the need of the hour. Probably, it is the biggest concern of Humanity right now. Any delay in this regard could be disastrous.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Name any two ways for soil conservation?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “First of all, the ways for soil conservation are many. Two of them are afforestation and using natural fertilizers.”
+}
+}, {
+“@type”: “Question”,
+“name”: “How world climate would become normal because of saving the Environment?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”Saving Environment would certainly make the world climate normal. This is because there would a reduction of global warming.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

@@ -1,0 +1,43 @@
+500+ Words Essay On Internet
+We live in the age of the internet. Also, it has become an important part of our life that we can’t live without it. Besides, the internet is an invention of high-end science and modern technology. Apart from that, we are connected to internet 24×7. Also, we can send big and small messages and information faster than ever. In this essay on the Internet, we are going to discuss various things related to the internet.
+Reach of Internet
+It is very difficult to estimate the area that the internet cover. Also, every second million people remain connected to it with any problem or issue. Apart from that, just like all the things the internet also has some good and bad effect on the life of people. So the first thing which we have to do is learn about the good and bad effect of the internet.
+Good effects of the internet mean all those things that the internet make possible. Also, these things make our life easier and safer.
+Bad effects of the internet mean all those things that we can no longer do because of the internet. Also, these things cause trouble for oneself and others too.
+You can access in any corner of the world. Also, it is very easy to use and manage. In today’s world, we cannot imagine our life without it.
+Get the huge list of more than 500 Essay Topics and Ideas
+Uses Of Internet
+From the time it first came into existence until now the internet has completed a long journey. Also, during this journey, the internet has adopted many things and became more user-friendly and interactive. Besides, every big and small things are available on internet and article or material that you require can be obtainable from internet.
+Tim Berners-Lee can be called one of the main father of internet as he invented/discovered the WWW (World Wide Web) which is used on every website. Also, there are millions of pages and website on the internet that it will take you years to go through all of them.
+The Internet can be used to do different things like you can learn, teach, research, write, share, receive, e-mail, explore, and surf the internet.
+Read Essay on Technology here
+Convenience Due To Internet
+Because of internet, our lives have become more convenient as compared to the times when we don’t have internet. Earlier, we have to stand in queues to send mails (letters), for withdrawing or depositing money, to book tickets, etc. but after the dawn of the internet, all these things become quite easy. Also, we do not have to waste our precious time standing in queues.
+Also, the internet has contributed a lot to the environment as much of the offices (government and private), school and colleges have become digital that saves countless paper.
+Although, there is no doubt that the internet had made our life easier and convenient but we can’t leave the fact that it has caused many bigger problems in the past. And with the speed, we are becoming addict to it a day in will come when it will become our basic necessity.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [
+{
+“@type”: “Question”,
+“name”: “What are the limitation of internet?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Although internet can help you with anything but there are certain limitation to it. First of it does not have a physical appearance. Secondly, it does not have emotions and thirdly, it can’t send you to a place where you can’t go (physically).”
+}
+},
+{
+“@type”: “Question”,
+“name”: “What is the ideal age for using internet?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Nowadays everybody from small kids to adult is internet addicts. So it is difficult to decide an ideal age for using internet. However, according to researches using internet from an early age can cause problems in the child so internet usage of small children should be controlled or banned.”
+}
+}
+]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

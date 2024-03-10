@@ -1,0 +1,37 @@
+500+ Words Essay on Doctor
+Doctors all over the world are given the stature next to God. It happens so mostly because they are lifesavers who work tirelessly for mankind. Moreover, being a doctor is considered one of the most sought-after professions. People want their kids to become doctors and they instill this dream in them from an early age.
+Doctors have a very noble profession. In addition, they are equipped with comprehensive knowledge and devices that enable them to diagnose and treat their patients with correct procedures. Doctors require medical staffs that help them in performing their treatment. They are very proficient and have proved their importance time and again for mankind.
+The Medical Scenario of India
+The medical scenario in India is renowned all over the world. The doctors originating from India are reaching new heights globally abroad. However, when we talk about the medical scenario within the country, we see how it’s quite worrying.
+In other words, all capable and talented doctors are moving abroad in search of better job opportunities and facilities. Therefore, we see there is a lack of doctors in the country to cater to the ever-growing population.
+But if we see on the bright side, we will notice how Indian doctors are very charitable in comparison to doctors of other countries. As India has been a country of tradition, the qualities are deeply rooted in our culture. This reflects in the medical scenario of the country as well.
+Indian doctors are very much in demand all over the world. Similarly, you will find a good number of Indian doctors working in various countries. Needless to say, India is a reservoir of doctors. It has a massive amount of medical colleges and produces thousands of doctors annually. In addition, our doctors work everywhere ranging from small villages to big metro cities.
+Aside from the allopathic doctors, India also has doctors who practice Ayurvedic, Unani as well as Homeopathic system of medicine. These are very famous practices which do not have any side effects. This is so because they are completely herbal making them very popular.
+Get the huge list of more than 500 Essay Topics and Ideas
+The Degradation of Doctors
+Although the medical field is evolving, there are still immoral practices in the field which makes it tough for patients to get the right treatment. Corruption has not spared this field as well.
+India suffers from a high illiteracy rate which results in people fooling the citizens for money. There are many wrongs and unethical medical practices prevalent in India which brings a bad name to the country.
+Moreover, the greed for money has resulted in various losses of lives of patients. The hospitals diagnose the patients wrongly and give them the wrong treatment. This results in even more worse results. The public is losing its faith in the medical field and its doctors.
+As a result, this impacts the reputation of the medical field. Doctors must be more responsible and vigilant with the lives of their patients. The government must provide the public with good medical facilities which can bridge this gap. In addition, we must also come together to help doctors do their job better.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Why do we consider are doctors next to God?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “We give doctors the stature next to God as they save lives and help people become better through their knowledge and treatment.”
+}
+}, {
+“@type”: “Question”,
+“name”: “Why are Indian doctors moving abroad?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”Indian doctors are settling abroad as they do not find ample opportunities in the country. Lack of goof facilities is also a reason for it. Most importantly, the pay scale in foreign countries is much better than that of India.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

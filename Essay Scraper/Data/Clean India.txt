@@ -1,0 +1,37 @@
+500+ Words Essay on Clean India
+Clean India is the need of the hour. Garbage and wastes are serious threats facing the nation. It certainly destroys the aesthetic beauty of our country. Furthermore, several diseases can result from it. Many Indians fall ill due to improper waste disposal. Therefore, this article discusses the topic of clean India in detail.
+How to Clean India?
+People can make India clean in a number of ways. First of all, carrying a small poly-bag is a must. Most noteworthy, a recycled paper bag is the best. Indians must certainly use it to throw trash in dustbins. Indians probably throw trash on the street because they dislike carrying it. However, a recycled paper bag makes it easier to carry waste. Hence, Indians can carry this bag to the dustbin for waste disposal.
+Segregating wastes is also very important. It is something which many Indians ignore. Most noteworthy, the segregation of waste at home should be in 3 separate bins. These 3 bins are Biodegradable, Recyclable and Others. The waste management department should help in implementing this system.
+Indians must learn to re-use old plastic items. Probably, most Indians just throw away such items after using them. One must do creative things with these old plastic items to re-use them.
+Another notable way to clean India is the compost pit. Compost pit helps in the preparation of compost. To create compost pit at home, some items are required. These items are kitchen wastes, leaves, grass, etc. Consequently, the microorganisms convert this organic matter into compost.
+Community cleanliness drive is yet another brilliant way of making India clean. It has a psychological benefit. This is because it is easier to do a thing when others are doing it. For example, Prime Minister Narendra Modi began Swachh Bharat Abhiyan.
+Indians must use fabric bags rather than polythene bags. Indians must stop getting vegetables in a polythene bag from a vendor. Hence, Indians must carry their own fabric bags when shopping.
+Get the huge list of more than 500 Essay Topics and Ideas
+The Problematic Attitude of Indians
+Indians probably pay a lot of attention to cleaning themselves. However, the same Indians don’t care much about the environmental cleanliness. Almost all Indians love to keep their houses clean, but don’t bother about the country. Unfortunately, many Indians avoid or ignore cleaning the country. This is certainly a sad situation.
+Indians are also careless about waste disposal. Probably, many Indians throw away wastes on the streets. So, often one sees Indians throwing garbage on the streets. This makes the streets dirty. Indians don’t care about polluting various types of facilities.
+One inspirational example for Indians can be Thailand. Thailand is a third world country just like India. However, in spite of being poor Thailand is still very clean. In contrast, India looks pretty dirty. The attitude of the people of India is to blame for that. In India, the unfortunate attitude is “make sure I am safe”. The attitude of Thai’s is – “make sure others are safe”.
+In conclusion, clean India is a very important issue. Public awareness regarding it must certainly be spread. Clean India should be the rallying cry of the entire nation.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “How Indians should segregate wastes?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Indians should segregate wastes in 3 separate bins. Above all, these bins are- Biodegradable, Recyclable and Others.”
+}
+}, {
+“@type”: “Question”,
+“name”: “Why Thailand is an inspiration for India?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”Thailand is an inspiration for India because it is clean and poor. Thailand is a third world country just like India. However, Thailand is clean in spite of being poor.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

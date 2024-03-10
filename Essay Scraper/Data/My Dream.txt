@@ -1,0 +1,43 @@
+500+ Words Essay on My Dream
+Everyone has a dream in his life which they want to achieve when they grow up. Some kids want to become rich so that they can buy anything and some want to be a doctor, lawyer, or engineer. But only you know that for achieving these goals you have to work hard and stay attentive to it. In this essay on my dream, we are going to discuss the basic things that will help in achieving my dream.
+Determination
+For turning a dream into reality the first thing that you need is determination. This will help you in a lot of ways. Firstly, it will help you decide the course of action for doing anything. Besides, it will also help you to plan the journey ahead. Also, it will help to take things slow and maintain a steady pace towards the dream.
+Moreover, no matter how big my dream planning and setting short term goals will always help. This is important because rushing to your dream will not going to help you in any way. Besides, there is some dream that requires time and they follow a process without following it you cannot achieve that dream.
+Staying Motivated
+Lack of motivation is one of the main causes that force a person to leave his dream behind. So, staying motivated is also part of the goal. And if you can’t stay positive then you won’t be able to achieve the dream. There are many people out there that quit the journey of their dreams mid-way because they lack motivation.
+Keep Remembering Goal
+For completing the dream you have to keep your dream in the mind. And remind this dream to yourself daily. There come hard times when you feel like quitting at those times just remember the goal it helps you stay positive. And if you feel like you messed up big times then start over with a fresh mind.
+Reward Yourself
+You don’t need to cover milestones to reward yourself. Set a small target towards your dream and on fulfilling them reward yourself. These rewards can be anything from toffee to your favorite thing. Besides, this is a good way of self-motivation.
+Get the huge list of more than 500 Essay Topics and Ideas
+Take Some Breaks
+Working towards your goal not mean that you work day and night without stopping. Apart from that, due to continuous efforts, people soon start to become de-motivated. So, taking a break will help your body and mind. For doing so, take a break in between your schedule for some time an engage yourself in other activities.
+Stay Among Positive People
+Your company affects you in a lot of ways than you can imagine. So, be with people who appreciate you and stay away from people who distract and criticize you.
+Don’t Hesitate to Make Mistakes
+We human beings fear to make mistakes but with it, we forget an important point that is a mistake helps us to learn. Whenever you make a mistake you face a tough time but these tough times helps you to polish yourself and be more determinant.
+To sum it up, we can say that dreaming of a goal is far easier than achieving it. And for fulfilling your dream you need a lot of things and also have to sacrifice many things.
+Above all, for fulfilling your dream plan and work according to it because it will lead you to the right path. And never forget to dream big because they help in overcoming every obstacle in life.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “What’s the best way to achieve a dream?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “There is no best way for achieving your dream. However, there are certain things that can help you in achieving your dream like being clear to your goal, keep trying, being determinant and several other qualities.”
+}
+}, {
+“@type”: “Question”,
+“name”: “What can be the biggest dream of anyone’s life?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”From my point of view being healthy and happy can be the biggest dream of anyone’s life.
+“}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

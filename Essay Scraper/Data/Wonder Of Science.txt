@@ -1,0 +1,36 @@
+500+ Words Essay on Wonder of Science
+Wonder of Science Essay: Looking at the age when a man led a life like a savage, we notice how far we have come. Similarly, the evolution of mankind is truly commendable. One of the major driving forces behind this is science. It makes you think about the wonder of science and how it has proven to be such a boon in our lives. Most importantly, science has helped develop a great civilization. All the advancements that man has been able to make are with the help of science only. However, it won’t be wrong to say that science is a two-edged sword. It comes with its own set of advantages and disadvantages.
+Advantages of Science
+To say that science has a lot of benefits would be an understatement. The benefits of science do not just limit to one sphere, but it has proven useful in various spheres of the world. When we talk about innovations in science and engineering, electricity is the first thing that comes to mind. It has helped power the world through its development.
+That is to say, all the credit goes to science, as it weren’t for science, life in the 21st century would be impossible. After all, it is quite hard to imagine a world without computers, medicines, televisions, AC’s, automobiles and more. In addition, science has contributed largely to the medical field as well.
+It has helped cure deadly diseases and also perform surgeries which were hard to perform before. Therefore, science has changed the world in unimaginable ways.
+Get the huge list of more than 500 Essay Topics and Ideas
+Disadvantages of Science
+As the saying goes ‘there is no rainbow without rain’, similarly science has drawbacks of its own. One must always remember that anything in excess is poison, and science is no different. If it falls into evil hands, it can cause destruction on a massive level. For instance, science is used to create nuclear weapons.
+These are deadly enough to cause war and wipe out full-fledged countries. Another drawback is the pollution caused by it. As the world became more industrialized because of science, pollution levels increased. All the high-scale industries are now polluting natural resources like water, air, wood, and more.
+Subsequently, this industrial growth has increased rates of unemployment as machines are replacing human labor. So, we see how it also has a considerable amount of drawbacks as well.
+In conclusion, we can say that surely science is very beneficial to the modern man. But, innovations and discoveries have also become destructive in various ways for mankind.
+Conclusion
+Therefore, it must be properly used for the greater benefit of mankind. We must ensure the wise use of these scientific inventions in order to save the world from the evil side of science. As Dr. A.P.J. Abdul Kalam once stated that science is a beautiful gift to humanity, we must not distort it, likewise, we must live by this quote and monitor the utilization.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “What are the advantages of science?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Science has helped mankind evolve from a savage to an educated being. It offers a lot of advantages for humans in different spheres of the world. These advantages come in the form of electricity, computers, automobiles, mobile phones, long-distance calling, cure of diseases and more.”
+}
+}, {
+“@type”: “Question”,
+“name”: “Discuss the disadvantages of science?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”When used improperly, science can have various negative effects. These disadvantages are at both individual levels as well as global level. It can cause disasters like nuclear disasters through the invention of nuclear weapons. It also pollutes the environment excessively and increases unemployment through the development of machines replacing human labor.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

@@ -1,0 +1,35 @@
+500+ Words Essay on My Garden
+Essay on My Garden– A Garden is the best place in the house according to me. As it is the only place where a person can get relief from a busy life. Moreover having a garden in the house welcomes many health benefits. For instance, a garden has many plants that give oxygen.
+Furthermore, the smell of the flowers can refresh a person’s mind in the morning. However, in this era, people are not able to build a garden, because of the lack of space. And also some think that it is a waste of space. So the gardens are no more present in the house. On the other hand gardens in the houses are necessary. In order to lead a peaceful life, a garden plays a major role.
+My Garden
+My garden contains different types of plants. For instance, it has different flowers such as roses, sunflowers, Lilies, daisies. These flowers are the easiest to grow and flourish the environment with their beautiful smells. Moreover, the colors of these flowers make a garden look beautiful.
+Further, my garden has different vegetables growing in them. For example vegetables like tomato, carrots, sweet potato, cauliflower, bell pepper, etc. These are the easiest to grow. Apart from this, they have various health benefits. Furthermore, this ensures that the vegetables are fresh and free from any chemicals.
+The garden has grass all over the area. As a result, this makes it the best place for any exercise. Furthermore, it has a soft ground where children can play different sports.
+This ensures that they do not get hurt even if they fall down while playing. Further, my garden has a swing too which is my favorite. Because I can spend hours swinging on it and do not get bored. Sometimes I spend my entire day in the garden completing all my tasks there. But this is only possible whenever I have a holiday.
+Get the huge list of more than 500 Essay Topics and Ideas
+The Gardener
+As he loves taking care of the garden. Moreover, he is the only person who has set up the entire. My father is a nature lover. Therefore he takes out time from his busy schedule and takes care of the garden. He always tries new things in the garden. For instance last week he brought some new varieties of flowers. Some of them were climbers, bulbs, and perennials.
+As a result, my garden is now full of flowers and is the brightest of all. Apart from my father, there is another person whom my father has appointed to take care of the garden. Because he has to stay away from the house so the gardener comes at that time. Furthermore, the work of grooming and cutting the plants is the duty of the gardener.
+Birds in My Garden
+Every day in the morning I can hear the chirping of many birds. Birds like sparrow, pigeon and Indian myna come to wake us up in the morning. Moreover, the peacock also comes occasionally in the garden. At that time the whole family gathers together to have a look at the beautiful feathers. In conclusion, the time spent in my garden is the most beautiful garden in the entire day.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Name any two flowers that grow in a garden.”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “The two flowers that grow in a garden are roses and sunflowers. Moreover, these flowers are the easiest to grow. Therefore they are found mostly in gardens.”}
+}, {
+“@type”: “Question”,
+“name”: “What are the benefits of having a garden in the house?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”The benefits of having a garden in the house are- the person gets fresh air in the environment of the benefits. Moreover, it enhances the look of the house and makes it beautiful.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

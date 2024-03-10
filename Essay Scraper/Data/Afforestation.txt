@@ -1,0 +1,34 @@
+500+ Words Essay on Afforestation
+Afforestation refers to the planting of trees in a barren land to create a forest. People often confuse this term with reforestation. However, they are two very different things. Reforestation refers to the specific planting of trees in a forest whose trees are already decreasing. Therefore, reforestation is essentially enhancing the number of trees. And afforestation is basically creating a whole new forest.
+Mother Earth has constantly faced difficulties due to human activities. For instance, the exploitation of natural resources, overpopulation, pollution, and deforestation damages the earth severely. Therefore, measures like Afforestation are practiced to prevent further damage.
+Importance of Afforestation
+The world is constantly evolving and so are the pollution levels. The carbon emission in cities is reaching new heights every day. As more and more industries are being set up, larger areas of forests are being cleared up. The setup of these facilities, thus, gives rise to deforestation.
+Afforestation is the need of the hour. We need it to tackle the global issues humans are facing. For example, global warming, soil erosion, pollution, the ecological imbalance is just some of the severe problems. We need measures like afforestation and reforestation to be practiced on a larger scale. Moreover, as we are witnessing the damage to earth with our own eyes, we need to do it quick.
+Most importantly, afforestation is something which is very economical and easy. It can help in bringing back the balance of nature. Even if one community vows to practice afforestation, we can successfully create a whole new forest. The first step has already been taken; various NGO’s and government agencies are already involved. We need to create awareness about its importance to make it happen on a bigger scale.
+Get the huge list of more than 500 Essay Topics and Ideas
+Benefits of Afforestation
+Afforestation has innumerable benefits. One cannot imagine the advantages it will bring for mankind, wildlife as well as the vegetation. When we practice afforestation, we will be able to prevent soil erosion. This will, in turn, help in maintaining the fertility of the soil. Therefore, it will be beneficial for the agricultural sector.
+Furthermore, through afforestation, we can get ample supply of timber, fruit, fodder and more. It will enhance the life of our cattle and help in better crop production. Moreover, afforestation will result in better retention of water. This can prevent droughts too.
+Similarly, afforestation will help in protecting the crops from excessive wind and sunlight. In other words, it will shield the crops from damage and help in a better production. Above all, the planting of trees is always beneficial. There is no harm in planting more and more trees. They will help in keeping a check on the levels of carbon dioxide.
+In short, we must encourage afforestation. It will help in making the world a greener place. Furthermore, afforestation will secure the future for our upcoming generations. Most importantly, humans must realize the fact that it is we who will suffer if not taken the essential steps. Earth will always survive as it has, we need to save ourselves.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Why is afforestation important?.”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Afforestation is important because we need to save the earth from dying. The large industries and human activities are damaging our earth. We need to practice afforestation to maintain the balance and harmony of nature.”}
+}, {
+“@type”: “Question”,
+“name”: “How will afforestation benefit us?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”Afforestation has numerous benefits. It will help prevent soil erosion, droughts, water evaporation. Furthermore, it will also enhance the production of crops. Thus, it will improve the quality of life and help in creating a greener and brighter future for the upcoming generations.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

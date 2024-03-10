@@ -1,0 +1,38 @@
+500+ Words Essay on Mother Teresa
+Essay on Mother Teresa: There are many humanitarian in the history of the world. Out of the blue, Mother Teresa stood in that crowd of people. She is a lady of great caliber who spends her whole life serving the poor and needy people. Although she was not an Indian still she came to India to help its people. Above all, in this essay on Mother Teresa, we are going to discuss the various aspects of her life.
+Mother Teresa was not his actual name but after becoming a nun she received this name from the church after the name of St. Teresa. By birth, she was a Christian and a great believer of God. And due to this reason, she chooses to become a Nun.
+The Beginning of Mother Teresa’s Journey
+Since she was born in a Catholic Christian family she was a great believer of God and humanity. Although she spends most of her life in the church she never imagines herself to be a nun one day. When she visited Kolkata (Calcutta), India after completing her work in Dublin her life completely changed. For 15 consecutive years, she enjoyed teaching children.
+Along with, teaching school children she worked hard to teach the poor kids of that area. She started her journey of humanity by opening an open-air school where she started teaching poor children. For years she worked alone without any funds but still continues to teach students.
+Her Missionary
+For doing this great work of teaching poor and helping needy people she wants a permanent place. This place will serve as her headquarters and a place where poor and homeless can take shelter.
+So, with the help of the church and the people, she established a missionary where poor and homeless can live and die in peace. Later on, she manages to open several schools, homes, dispensaries, and hospitals through her NGO both in India and overseas countries.
+Get the huge list of more than 500 Essay Topics and Ideas
+Death of Mother Teresa and Memorial
+She was an angel of hope for the people but death spares no one. And this gem died serving people in Kolkata (Calcutta). Also, on her death the whole nation shred tears in her memory. With her death the poor, needy, homeless, and weak again become orphans.
+Many memorials were made in her honor by the Indian people. Apart from that, foreign countries also make several memorials to give tribute to her.
+In conclusion, we can say that in the beginning, it was a difficult task for her to manage and teach poor children. But, she manages those hardships delicately.
+In the beginning, of her journey, she uses to teach poor kids using a stick by writing on the ground. But after years of struggle, she finally manages to arrange the necessary things for teaching with the help of volunteers and some teachers.
+Later on, she established a dispensary for poor people to die in peace. Due to her good deeds, she earns great respect in the heart of Indians.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “What was the Real name of Mother Teresa which her parents gave her?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Although everyone calls her Mother Teresa and she was popularly known as ‘saint of our times’ but her real name was Agnes Gonxha Bojaxhiu.”
+}
+}, {
+“@type”: “Question”,
+“name”: “What is Mother Teresa famous for?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”She is famous for her work which she has done in Kolkata (Calcutta), India where she worked with outcasts, lepers, and the homeless. Besides, she is a person of great faith and humbleness.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

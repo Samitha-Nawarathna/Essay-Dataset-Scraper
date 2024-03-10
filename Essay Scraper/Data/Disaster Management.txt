@@ -1,0 +1,34 @@
+500+ Words Essay on Disaster Management
+Nature has various manifestations both gentle as well as aggressive. We see how sometimes it is so calm while the other times it becomes fierce. The calm side is loved by everyone, of course, however, when the ferocious side is shown, devastation happens. As humans cannot control everything, certain things of nature are out of our control.
+Similarly, when natural disasters happen, humans cannot control them. However, we can prevent them. In other words, whenever a calamitous situation arises that may disturb the life and ecosystem, we need emergency measures to save and preserve lives. As natural disaster are not predictable, they can take place anywhere at any time. To understand disaster management thoroughly, we need to first identify the types of disasters.
+Types of Disasters
+If we look at the disasters that have taken place earlier, we can easily say that nature is not merely responsible for them to happen. They happen due to other reasons too. This is why we have classified them in different categories. First comes the natural disasters which are caused by natural processes. They are the most dangerous disaster to happen which causes loss of life and damage to the earth. Some of the deadliest natural disasters are earthquakes, floods, volcanic eruptions, hurricanes, and more.
+Furthermore, we have man-made disasters. They are the results of technological hazards or man’s carelessness. Some of the man-made disasters include fires, nuclear explosions or radiations, oil spills, transport accidents, terrorist attacks and more. Nature has little or no role to play in these types of disasters.
+As no country is spared from any kind of disasters, India also falls in the same category. In fact, the geographical location of India makes it a very disaster-prone country. Each year, India faces a number of disasters like floods, earthquakes, tsunami, landslides, cyclones, droughts and more. When we look at the man-made disasters, India suffered the Bhopal Gas Tragedy as well as the plague in Gujarat. To stop these incidents from happening again, we need to strengthen our disaster management techniques to prevent destructive damage.
+Get the huge list of more than 500 Essay Topics and Ideas
+Disaster Management
+Disaster management refers to the efficient management of resources and responsibilities that will help in lessening the impact of the disaster. It involves a well-planned plan of action so we can make effective efforts to reduce the dangers caused by the disaster to a minimum.
+Most importantly, one must understand that disaster management does not necessarily eliminate the threat completely but it decreases the impact of the disaster. It focuses on formulating specific plans to do so. The National Disaster Management Authority (NDMA) in India is responsible for monitoring the disasters of the country. This organization runs a number of programs to mitigate the risks and increase the responsiveness.
+Proper disaster management can be done when we make the citizens aware of the precautionary measures to take when they face emergency situations. For instance, everyone must know we should hide under a bed or table whenever there is an earthquake. Thus, the NDMA needs to take more organized efforts to decrease the damage that disasters are causing. If all the citizens learn the basic ways to save themselves and if the government takes more responsive measures, we can surely save a lot of life and vegetation.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “What are the types of disasters?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “There are essentially two types of disasters. One is natural disasters which include floods, earthquake, tsunami, volcanic eruptions and more. The other is man-made disaster including oil spills, fires”
+}
+}, {
+“@type”: “Question”,
+“name”: “How can we effectively manage disasters?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”We must make people aware of the consequences of disasters. Moreover, we can teach them actions and measures to take when they face emergency situations.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

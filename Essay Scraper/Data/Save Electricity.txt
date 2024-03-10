@@ -1,0 +1,36 @@
+500+ Words Essay on Save Electricity
+Electricity is an essential resource for a thriving life. It runs our daily life. Life without electricity would be impossible to imagine now. We generate electricity using coal or natural gas. However, people do not realize the natural resources to do as are limited and non-renewable. We must conserve electricity so that we can conserve these resources.
+In other words, electricity serves mankind greatly. We must stop the wastage of power. The world will lose its light if there is no electricity. Moreover, careless behavior by humans must be checked. We need to realize the importance of electricity to save ourselves from the darkness.
+Need for Electricity
+Electricity is needed in almost every sphere of life now. We need it to lead a comfortable life full of all amenities and services. The world will become dormant without electricity. For instance, all our health and education facilities are conditioned by electricity. If there is no electricity, the surgeon won’t be able to perform his surgery. Moreover, students won’t be able to gain practical knowledge.
+Likewise, motor mechanics in the garages and engineers in the factory depend on electricity. Furthermore, the passengers at the railway station and the airport can travel safely due to electricity only.
+In addition, various means of transportation depend on electricity only. Trams and metros carry thousands of people every day. All this is made possible due to electricity only. Electricity boosts our modern life and helps in making it civilized.
+Get the huge list of more than 500 Essay Topics and Ideas
+How to Save Electricity
+Firstly, all of us must understand that even a small step will go a very long way in saving electricity. For instance, if every person at each home switches on the fan when not in use, thousands of watts of electricity can be saved.
+Similarly, if we use our air conditioners, heaters, ovens, refrigerators and more properly, we can successfully save large amounts of electricity.
+Furthermore, try making use of natural light more. Do not keep the lights unnecessarily in the morning and afternoons. Make do with the natural light as it is enough. We must replace all our old appliances as they consume a lot of electricity. In other words, we must strive to make our homes energy efficient.
+Moreover, always remember to unplug your electrical gadgets when not in use. These devices consume at least 10% of electricity even when inactive. Thus, unplug them to save electricity.
+In addition, try to cut down your TV watching time. Encourage kids to read and play outside instead. Likewise, try using laptops in place of desktops. Desktops consume more energy than a laptop. You must also switch off the fans if you using your air conditioner, thereby avoiding unnecessary wastage.
+Most importantly, installing solar panels can help you excessively. They are very economical and help in saving a lot of energy. The solar panels will help in consuming lesser energy that too economically. Similarly, the industries which use megawatts of electricity must install windmills. This can help in getting cheap electricity through natural means.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Why is Electricity important?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Electricity powers all the facilities now. It helps a surgeon perform life-saving surgery. Similarly, it helps students in learning practical knowledge at school. Furthermore, people lead a comfortable life all thanks to electricity.”}
+}, {
+“@type”: “Question”,
+“name”: “How can we save electricity?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”One can adopt a number of ways to save electricity. Make sure to use natural light to the fullest and avoid turning on lights in the morning and afternoon. Moreover, always switch off fans and lights when not in use. Unplug your gadgets and install solar panels to get economic electricity.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

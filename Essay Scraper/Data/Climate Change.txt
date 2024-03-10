@@ -1,0 +1,42 @@
+500+ Words Climate Change Essay
+Climate change refers to the change in the environmental conditions of the earth. This happens due to many internal and external factors. The climatic change has become a global concern over the last few decades. Besides, these climatic changes affect life on the earth in various ways. These climatic changes are having various impacts on the ecosystem and ecology. Due to these changes, a number of species of plants and animals have gone extinct.
+When Did it Start?
+The climate started changing a long time ago due to human activities but we came to know about it in the last century. During the last century, we started noticing the climatic change and its effect on human life. We started researching on climate change and came to know that the earth temperature is rising due to a phenomenon called the greenhouse effect. The warming up of earth surface causes many ozone depletion, affect our agriculture, water supply, transportation, and several other problems.
+Reason Of Climate Change
+Although there are hundreds of reason for the climatic change we are only going to discuss the natural and manmade (human) reasons.
+Get the huge list of more than 500 Essay Topics and Ideas
+Natural Reasons
+These include volcanic eruption, solar radiation, tectonic plate movement, orbital variations. Due to these activities, the geographical condition of an area become quite harmful for life to survive. Also, these activities raise the temperature of the earth to a great extent causing an imbalance in nature.
+Human Reasons
+Man due to his need and greed has done many activities that not only harm the environment but himself too. Many plant and animal species go extinct due to human activity. Human activities that harm the climate include deforestation, using fossil fuel, industrial waste, a different type of pollution and many more. All these things damage the climate and ecosystem very badly. And many species of animals and birds got extinct or on a verge of extinction due to hunting.
+Effects Of Climatic Change
+These climatic changes have a negative impact on the environment. The ocean level is rising, glaciers are melting, CO2 in the air is increasing, forest and wildlife are declining, and water life is also getting disturbed due to climatic changes. Apart from that, it is calculated that if this change keeps on going then many species of plants and animals will get extinct. And there will be a heavy loss to the environment.
+What will be Future?
+If we do not do anything and things continue to go on like right now then a day in future will come when humans will become extinct from the surface of the earth. But instead of neglecting these problems we start acting on then we can save the earth and our future.
+Although humans mistake has caused great damage to the climate and ecosystem. But, it is not late to start again and try to undo what we have done until now to damage the environment. And if every human start contributing to the environment then we can be sure of our existence in the future.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [
+{
+“@type”: “Question”,
+“name”: “What is climate change and how it affects humans?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Climate change is a phenomenon that happens because of human and natural reasons. And it is one of the most serious problems that not only affect the environment but also human beings. It affects human in several ways but in simple language, we can say that it causes many diseases and disasters that destroy life on earth.”
+}
+},
+{
+“@type”: “Question”,
+“name”: “Can we stop these climatic changes?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Yes, we can stop these climatic changes but for that, every one of us has to come forward and has to adapt ways that can reduce and control our bad habits that affect the environment. We have to the initiative and make everyone aware of the climatic changes.”
+}
+}
+]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

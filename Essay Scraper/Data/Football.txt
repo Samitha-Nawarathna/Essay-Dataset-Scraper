@@ -1,0 +1,42 @@
+500+ Words Essay on Football
+Essay On Football- Football is a game that millions of people around the world play and love. It can be called a universal game because every small and big nation plays it.
+Moreover, it’s a great relaxer, stress reliever, teacher of discipline and teamwork. Apart from that, it keeps the body and mind fit and healthy. It’s a team game that makes it a more enjoyable game as it teaches people the importance of sportsmanship. Leadership, and unity.
+History of Football
+The history of football can be traced back to the ancient times of the Greeks. Everyone knows that the Greeks were great sportsmen and have invented many games.
+Football happens to one of them. A similar game like football is played in many countries but the latest version of football that we knew originates in England. Likewise, England formulated the first rule of the game. From that day onwards the football has progressed in ways we can’t imagine.
+Importance of Football
+Football is an important game from the point of view of the spectator as well as the player. This 90 minutes game is full of excitement and thrill.
+Moreover, it keeps the player mentally and physically healthy, and disciplined. And this ninety-minute game tests their sportsmanship, patience, and tolerance.
+Besides, all this you make new friends and develop your talent. Above all, it’s a global game that promotes peace among countries.
+Get the huge list of more than 500 Essay Topics and Ideas
+How to Learn Football
+Learning any game is not an easy task. It requires dedication and hard work. Besides, all this the sport test your patience and insistence towards it. Moreover, with every new skill that you learn your game also improves. Above all, learning is a never-ending process so to learn football you have to be paying attention to every minute details that you forget to count or missed.
+Football in India
+If we look at the scenarios of a few years back then we can say that football was not a popular game in except West Bengal. Also, Indians do not take much interest in playing football. Likewise, the All India Football Federation (AIFF) has some limited resources and limited support from the government.
+But, now the scenario has completely changed. At this time football matches the level of cricket in the country. Apart from that, the country organizes various football tournaments every year.
+Above all, due to the unpopularity of football people do not know that we have under-17 and under-23, as well as a football team.
+Football Tournaments
+The biggest tournament of Football is the FIFA world cup which occurs every 4 years. Apart from that, there are various other tournaments like UEFA cup, Asian Cup (AFC), African completions (CAF) and many more.
+To conclude, we can say that football is very interesting that with every minute takes the viewer’s breath away. Besides, you can’t predict what’s going to happen the next second or minute in football. Apart from all this football keeps the one playing it fit and healthy. Above all, it can be a medium of spreading the message of peace in the world as it is a global game.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “What are soccer and rugby?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Soccer is another name of the world-famous game Football. While on the other hand, rugby is an American version of Football in which they carry the rugby ball in their hands.”
+}
+}, {
+“@type”: “Question”,
+“name”: “Is football a dangerous or safe game?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”For school students and youngsters it’s a much safer game as compared to professionals. Because professionals can suffer from injuries and can cost them their careers. But overall football is a dangerous game.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

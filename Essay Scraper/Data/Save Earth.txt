@@ -1,0 +1,34 @@
+500+ Words Essay on Save Earth
+Earth and the resources of earth make life possible on it. If we were to imagine our lives without these resources, that would not be possible. As life cannot function without sunshine, air, vegetation, and water. However, this is soon going to be our reality if we do not save the earth now.
+The resources earth provides us with are limited. They are blessings which we do not count. Human has become selfish and is utilizing the earth’s resources at a rapid rate. We need to protect them in order to protect our lives. This is so because man and all living organisms depend on the earth for their survival.
+It is The Need of the Hour
+To say that saving the earth is the need of the hour would be an understatement. All the activities of humans driven by greed and selfishness have caused immense damage to the earth. It is degraded it beyond repair. Almost all the natural resources are now polluted due to these activities.
+When all these resources will be under threat, naturally lives of all living organisms will be under peril. This is why we need to save the earth at all costs. All the other issues are secondary and saving the earth is the main concern. For when the earth will not remain, the other issues will go away automatically.
+Earth is the only planet which can sustain life on it. We do not have a planet B which we can move onto. This makes it all the more serious to save the earth and save our lives. If we do not take strict actions now, we will lose the chance of seeing our future generations flourish forever. Everyone must come together for the same causes, as we are inhabitants of this planet firstly and then anything else.
+Get the huge list of more than 500 Essay Topics and Ideas
+How to Save Earth
+As all human activities are impacting the lives of other organisms, humans only need to take steps to protect the earth and its resources. A little effort will go a long way on everyone’s end. Each action will make a difference. For instance, if one man decides to stop drinking bottled water, thousands of plastic can be saved from consuming.
+Furthermore, we can start by planting more trees to make up for the deforestation that is happening these days at a rapid rate. When we plant more trees, ecological balance can be restored and we can improve the quality of life.
+Similarly, we must stop wasting water. When done on individual levels, this will create a huge impact on conserving water. We must not pollute our water bodies by dumping waste in it. It is essential to save water most importantly as it is running out rapidly.
+In short, the government and individuals must come together to save the earth. We can make people aware of the consequences of not saving the earth. They can be taught ways and how they can contribute to saving the earth. If all this collective effort starts happening, we can surely save our planet earth and make brighter earth.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Why must we save the earth?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “We need to save earth right away as it is the only planet that can sustain life. Earth supports life forms which no other planet does. Moreover, all the resources are being used up rapidly so we need to save them before they all get used up.”}
+}, {
+“@type”: “Question”,
+“name”: “How can we save the earth?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”Everyone can take little steps to save the earth. We must not waste water and avoid the use of plastic. Moreover, we must plant more trees and encourage people to not pollute the environment.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

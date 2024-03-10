@@ -1,0 +1,39 @@
+500+ Words Essay on Role Model
+Role Model Essay– There are many people in the world who blindly follow anyone. Also, they admire and love that person no matter what he does. A role model is a person who inspires you to be like him.
+Moreover, a role model is the person you love and want to be like him. Besides this, the role model can be anyone from a celebrity to a politician to your family member.
+My Role Model
+The missile man of India Dr. APJ Abdul Kalam is my role model. He is my role model not because he has achieved great things in life and become the president of India. He is my role model because he dedicated his entire life to the country and its people especially school children.
+His Achievement
+Dr. APJ Abdul Kalam worked his entire life and achieved many great things in life. But several of his bigger achievements are the testing of Atomic bombs at Pokhran, development of the missile Agni and Prithvi, and becoming the president of India. But there is one more thing which is of great importance that is after his retirement from the presidential post he started teaching because it was his passion.
+He always says that this young generation is the future of the country so guide them on the right path and they lead India to greatness.
+His Personal Life
+Dr. Abdul Kalam was so dedicated to his work that he usually sleeps late at night and wakes up early in the morning. Also, he never misused his power as a president of India. Besides, all this his family (brother and sisters) was also a very humble person who earn their living by doing work and they live simple lives.
+Get the huge list of more than 500 Essay Topics and Ideas
+Qualities of a Role Model
+There are certain qualities of a good role model which make him/her a great man/women. These qualities include a demonstration of confidence and leadership, communication with everyone, being unique, showing respect and concern for others, treating everyone equally, willingness to admit mistakes, and maintaining the same character inside or outside the job. If a person possesses these qualities then he/she can be an ideal role model.
+How to be a Role Model for Others?
+Being a role model to someone is not an easy task especially if you focus on being a role model. The thing about being a role model is that you only do the right thing and people starts to follow. Also, you do not have to achieve something bigger just follow your heart and the above-mentioned qualities and be patient and you will be a role model one day.
+My Other Role Model
+Apart from Dr. Abdul Kalam, I have other role models in my life that belong to different fields and different profession. The persons are Ratan Tata, Bill Gates, Will Smith, Sachin Tendulkar, Kapil Dev, Kalpana Chawla, Albert Einstein, B.R. Ambedkar, my father, and my mother.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Can a person have more than one role model?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Yes, it is not mandatory for anyone to have only one role model. You role model can be different persons, different field, and different professions.”
+}
+}, {
+“@type”: “Question”,
+“name”: “Whom we can call a good role model?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”The person who confident, and helping, who communicates with everyone, respect others, treat everyone equally, influence other, accept his/her mistakes, and maintain a balanced character with everyone is the ideal role model for everyone.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

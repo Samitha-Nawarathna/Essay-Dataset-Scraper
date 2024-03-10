@@ -1,0 +1,35 @@
+500+ Words Essay on Save Trees
+Essay on Save Trees: From childhood, we have heard that trees are our best friend but in practical life, we didn’t see anyone who treats trees as their friends. Although they are the most valuable life source on the earth. They benefit every life form in a direct or indirect way. And the earth is connected to them to maintain a natural balance. In this essay on save trees, we are discussing the reason why our friends need saving.
+They nourish us and protect us in many ways. Also, they keep our environment green and clean. So, it becomes our responsibility to repay them for the things they do for us by saving them. Besides, large trees are more beneficial than small ones because they capture more carbon, capture more water, combat the heat, filter greenhouse gases, gives shelter from heat and sunlight, etc. So, it can be said that we depend on them more rather than they on us.
+Advantages and Importance of Trees
+As we have discussed the benefits of trees in short but here we are going to discuss them in detail. Plants and Trees fight the climatic changes that are destroying the earth. They also filter the air that we breathe and absorb all the harmful chemical gases and odors from the environment. Also, they take in the harmful carbon dioxide and gives out oxygen.
+They are good for the diversity of flora and fauna. They give us food, shelter and many more things that we can’t count. Besides, they never demand anything from us and also prevent soil erosion, water evaporation. Above all, they control and manage the effects of wind, sun and, rain.
+Get the huge list of more than 500 Essay Topics and Ideas
+How to Save Trees?
+The human has become aware and serious about this issue and started doing the best they can do to save trees. The forest departments and government have banned the illegal cutting of trees. And they are going digital so that they can save paper which will reduce the number of trees cut down for making paper.
+Apart from that, the forest area after cutting of trees should be replanted with new ones. Also, we should teach our children to plant trees and ask them to pass it on their friends and acquaintances.
+The least that we can do is to plant some pots in our home rooftops or garden and ask our neighbor to do the same. Also, if we see the removal of a tree then we should inform the local authority about it to create awareness. Above all, strict laws should be made for people who illegally or without permission cut these trees for their own benefits.
+The various life form is able to survive on earth due to plants. If we remove plants from the earth even for one day then the survival of man will become difficult.
+Besides, they are the source of water and fresh oxygen on earth. Cutting trees means destroying life on earth. So, the time has come that we to be responsible for the action we have done till now. And start finding ways to save this Green Gold.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Why saving trees are so important?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Saving trees benefit us more than it will benefit trees. The reason for that is they give us food, shelter, protection from sunlight, clean air to breathe and many countless more benefit that we ignore.”
+}
+}, {
+“@type”: “Question”,
+“name”: “How can we save trees?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”We can save trees by following methods – Planting more and more trees,Stopping cutting of trees,Creating awareness about the importance of trees.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

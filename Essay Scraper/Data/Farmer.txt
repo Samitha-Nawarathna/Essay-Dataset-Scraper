@@ -1,0 +1,34 @@
+500+ Words Essay on Farmer
+Farmers are the backbone of our society. They are the ones who provide us all the food that we eat. As a result, the entire population of the country depends upon farmers. Be it the smallest or the largest country. Because of them only we are able to live on the planet. Thus Farmers are the most important people in the world. Though farmers have so much importance still they do not have proper living.
+Importance of farmers
+Farmers have great importance in our society. They are the ones who provide us food to eat. Since every person needs proper food for their living, so they are a necessity in society.
+There are different types of farmers. And they all have equal significance. First are the farmers who grow a crop like wheat, barley, rice, etc. Since the maximum intake in the Indian houses is of wheat and rice. So, the cultivation of wheat and rice is much in farming. Moreover, farmers who grow these crops are of prime importance. Second, are the ones who cultivate fruits. These farmers have to prepare the soil for different types of fruits. Because these fruits grow according to the season. Therefore the farmers need to have a great knowledge of fruits and crops. There are many other farmers who grow different other types. Furthermore, they all have to work very hard to get maximum harvesting.
+In addition to the farmers contribute almost 17% of the Indian economy. That is the maximum of all. But still, a farmer is deprived of every luxury of society.
+Get the huge list of more than 500 Essay Topics and Ideas
+Conditions of farmers in India
+The condition of farmers in India is critical. We are hearing suicide news of farmers every week or month. Moreover, farmers are all living a difficult life from past years. The problem is they are not getting enough pay. Since the middlemen get most of the money, so a farmer gets nothing in hand. Moreover, farmers are not having money to send their kids to school. Sometimes the situation gets so worse that they are not even having proper food. Thus farmers go in famine. As a result, they attempt suicides.
+Furthermore, the other reason for the worst condition of farmers is Global warming. Since Global Warming is hampering our planet in every way, it affects our farmers too. Because of global warming, there is a delay in season. As different crops have their own season to ripe, they are not getting nourishment. Crops need proper sunlight and rain to grow. So if the crops are not getting it they get destroyed. This is one of the main reasons why farms are getting destroyed. As a result, farmers commit suicide.
+In order to save farmers, our Government is trying to provide them with various privileges. Recently the government has exempted them from all the loans. Moreover, the government pays an annual pension of Rs. 6000 to them. This helps them to at least have some earning apart from their profession. Furthermore, the government provides quotas (reservations) to their children. This ensures that their children get a proper education. All the children should get a proper education in today’s world. So that they get a chance to live a better life.
+At last, farming is a profession which hard labor and effort. Moreover seeing the growing population of our country we should take initiatives to help farmers of our country.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Who are farmers?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Farmers are the one who grows crops in farms. Thus they provide us food to eat.”
+}
+}, {
+“@type”: “Question”,
+“name”: “Why are farmers attempting suicides?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”Farmers are attempting suicides because their profession is not providing them even food to eat. Moreover, their farms are getting destroyed. As a result, it leaves them with nothing.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

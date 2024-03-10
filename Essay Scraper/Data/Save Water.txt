@@ -1,0 +1,41 @@
+500+ Words Essay on Save Water
+In this essay on save water, we are going to discuss the problem of water and how we can save water and avoid its wastage. Also, water-saving is a universal responsibility of every person who lives on this earth. In order to save water, we have to adapt various means that can help in maintaining the level of fresh water on earth. As the accessibility of freshwater is depleting water conservation and saving initiatives are increasing to save water for future generations.
+Reason for Freshwater Shortage
+The first reason can be too much wastage of freshwater and careless use of water on daily uses. Second can be the pollution from industries that adds untreated water to the rivers and lakes on a daily basis. The third reason can be pesticides and chemical fertilizers are also polluting the freshwater. Apart from this, sewage waste is also dumped into rivers that pollute water.
+Get the huge list of more than 500 Essay Topics and Ideas
+Avoidance of Water Shortage
+There are many ways in which we can save water and minimize their pollution. Besides, these methods include proper treatment of industrial water before dumping them into rivers. Also, using only the required amount of water and avoiding wastage. Apart from that, we can make people aware about water problem by means of social campaigns and other ways.
+Ways and Methods of Saving Water
+Water covers 70% of the earth surface but freshwater for drinking and other uses are about only 2.5 %. Also, this makes water one of the scarce resources that the entire human race consumes. Apart from that, if we reduce the amount of water we daily use for various activities like bathing, laundry, watering plants, etc. then we can really be able to save water for our future generations. Besides, below we have listed down various tips that can save water.
+Make it your personal responsibility to save water daily.
+Install canals on your rooftops so that rainwater can be reused for household purposes or can recharge groundwater.
+Use the full capacity of your washing machine while washing clothes.
+Water the plants in the evening to minimize evaporation.
+Instead of shower use buckets because it saves a lot of water.
+Don’t let the tap running while washing your face or hands.
+Increase awareness about save water initiative in your locality, school, and neighborhood.
+Educate children about water-saving from an early age so they can understand its value
+After all, we have done till now to save water is not enough. Also, it is the most vital resource that we have received from Mother Nature. Apart from that, it is also very important for other forms of life on earth like plants, animals, and birds. The quantity of fresh water is only limited to groundwater, rivers, and lakes. Hence, it becomes our duty to safeguard what remains of this precious resource for our future.
+Also, we require action plans to keep a check on the water pollution that is making it unfit for use.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Why it is important to save water?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Water saving is important because only 2.5% of the total water available on the earth is freshwater. Also, we use this water for various purposes in our daily life. Above all, it is a scarce resource which it not checked will disappear from the earth also it does not have an alternative.”
+}
+}, {
+“@type”: “Question”,
+“name”: “When was the world water day celebrated and why?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”World water day is celebrated on 22nd March every year. Its celebration is important because it reminds us of the importance of water and how scarce it is.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

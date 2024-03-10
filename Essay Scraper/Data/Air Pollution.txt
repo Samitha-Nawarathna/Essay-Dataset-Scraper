@@ -1,0 +1,42 @@
+500+ Words Essay on Air Pollution
+Essay on Air Pollution– Earlier the air we breathe in use to be pure and fresh. But, due to increasing industrialization and concentration of poisonous gases in the environment the air is getting more and more toxic day by day. Also, these gases are the cause of many respiratory and other diseases. Moreover, the rapidly increasing human activities like the burning of fossil fuels, deforestation is the major cause of air pollution.
+How Air Gets Polluted?
+The fossil fuel, firewood, and other things that we burn produce oxides of carbons which got released into the atmosphere. Earlier there happens to be a large number of trees which can easily filter the air we breathe in. But with the increase in demand for land, the people started cutting down of trees which caused deforestation. That ultimately reduced the filtering capacity of the tree.
+Moreover, during the last few decades, the numbers of fossil fuel burning vehicle increased rapidly which increased the number of pollutants in the air.
+Causes Of Air Pollution
+Its causes include burning of fossil fuel and firewood, smoke released from factories, volcanic eruptions, forest fires, bombardment, asteroids, CFCs (Chlorofluorocarbons), carbon oxides and many more.
+Besides, there are some other air pollutants like industrial waste, agricultural waste, power plants, thermal nuclear plants, etc.
+Greenhouse Effect
+The greenhouse effect is also the cause of air pollution because air pollution produces the gases that greenhouse involves. Besides, it increases the temperature of earth surface so much that the polar caps are melting and most of the UV rays are easily penetrating the surface of the earth.
+Get the huge list of more than 500 Essay Topics and Ideas
+Effects Of Air Pollution On Health
+The air pollution has many bad effects on the health of people. It is the cause of many skins and respiratory disorder in human beings. Also, it causes heart disease too. Air pollution causes asthma, bronchitis, and many other diseases.
+Moreover, it increases the rate of aging of lungs, decreases lungs function, damage cells in the respiratory system.
+Ways To Reduce Air Pollution
+Although the level of air pollution has reached a critical point. But, there are still ways by which we can reduce the number of air pollutants from the air.
+Reforestation- The quality of air can be improved by planting more and more trees as they clean and filter the air.
+Policy for industries- Strict policy for industries related to the filter of gases should be introduced in the countries. So, we can minimize the toxins released from factories.
+Use of eco-friendly fuel- We have to adopt the usage of Eco-friendly fuels such as LPG (Liquefied Petroleum Gas), CNG (Compressed Natural Gas), bio-gas, and other eco-friendly fuels. So, we can reduce the amount of harmful toxic gases.
+To sum it up, we can say that the air we breathe is getting more and more polluted day by day. The biggest contribution to the increase in air pollution is of fossil fuels which produce nitric and sulphuric oxides. But, humans have taken this problem seriously and are devotedly working to eradicate the problem that they have created.
+Above all, many initiatives like plant trees, use of eco-friendly fuel are promoted worldwide.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Mention five effect of air pollution on human health?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “The major risk factor related to human health are asthma, lung cancer, Alzheimer, psychological complications, and autism. Besides, there are other effects of air pollution on a person’s health.”}
+}, {
+“@type”: “Question”,
+“name”: “What is the effect of air pollution in the environment?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”Acid, rain, ozone depletion, greenhouse gases, smog are many other things are the cause of air pollution that affect the environment severely.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

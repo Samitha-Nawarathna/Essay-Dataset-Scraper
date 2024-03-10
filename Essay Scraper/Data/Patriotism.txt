@@ -1,0 +1,37 @@
+500+ Words Essay on Patriotism
+Essay on Patriotism: Patriotism refers to the passionate love one has for their country. This virtue pushes to citizens of a country to work for their country selflessly and make it better. A truly developed country is made up of true patriots. In other words, patriotism means keeping the country’s interest first and then thinking about oneself. Patriotism can be specifically seen during times of war. Moreover, it helps in building the nation stronger. There are other significances of patriotism as well.
+Significance of Patriotism
+Usually, we refer to our country as our motherland. This further proves that we must have the same love for our country as we have for our mother. After all, our country is no less than a mother; it nurtures us and helps us grow. Everyone must possess the virtue of patriotism as it makes it better.
+In addition, it also enhances the life quality of the citizens. It does that by making people work for the collective interest of the country. When everyone works for the betterment of the country, there would be no conflict of interest. Thus, a happier environment will prevail.
+After that, peace and harmony will be maintained through patriotism. When the citizens have the spirit of brotherhood, they will support one another. Hence, it will make the country more harmonious.
+In short, patriotism does have great importance in developing the country. It eliminates any selfish and harmful motives which in turn lessens corruption. Similarly, when the government becomes free of corruption, the country will develop faster.
+Get the huge list of more than 500 Essay Topics and Ideas
+Great Patriots of India
+India has had a fair share of patriots from the very beginning. The struggle for independence gave birth to various patriots. These patriots have made a lot of sacrifices for the county to flourish and prosper. Their names have gone down in history and are still taken with respect and admiration. Some of the greatest patriots of India were Rani Lakshmi Bai, Shaheed Bhagat Singh, and Maulana Azad.
+Rani Lakshmi Bai was one of the most famous patriots of the country. Her courage and bravery are still talked about. Her name always comes up in the revolt of 1857. She revolted against the British rule and to fight for independence. She gave her life fighting on the battlefield for our country.
+Shaheed Bhagat Singh is another name that is synonymous with patriotism. He was determined to free India from the clutches of the British rule. He was a part of several freedom struggles. Similarly, he also started a revolution for the same. He dedicated his life to this mission and died as a martyr for the love of his country.
+Maulana Azad was a true patriot. The first education minister of India played a great role in the freedom struggle. He traveled through cities and created awareness of the injustices by the British. He united people through his activism and led India to freedom.
+Conclusion
+In conclusion, these are just a few who were patriots of the country. They lived for their country and did not hesitate before devoting their lives to it. These names are shining examples for the generations to come. We must possess patriotism and work for our motherland to see it succeed.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Why is patriotism important?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Patriotism is important for the development of a country. It helps in nation-building and driving people to work for the betterment of the country. Furthermore, it fights corruption as well.”
+}
+}, {
+“@type”: “Question”,
+“name”: “Name some of the patriots of India.”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”India has had a lot of true patriots, especially during the British reign. Some of the renowned ones were Rani Lakshmi Bai, Shaheed Bhagat Singh, and Maulana Azad.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

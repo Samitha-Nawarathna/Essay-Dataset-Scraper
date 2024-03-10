@@ -1,0 +1,36 @@
+500+ Words Essay on Noise Pollution
+Essay on Noise Pollution: Noise pollution is a form of pollution which has become very deadly nowadays. This pollution is increasing only and creates an unsafe environment. Noise pollution is when the level of noise increases more than the normal level. When the amount of noise exceeds, it becomes dangerous for living beings. Moreover, these unpleasant sounds cause several disturbances and create an imbalance in the environment.
+In other words, high volume noises are abnormal. As the world is advancing at a rapid rate, so is noise pollution. Technology has made things easier for people by creating appliances and devices for almost everything. You want to mix or grind something? It can be done with a mixer and blender. You are feeling hot? Simply turn on the AC or cooler. Do you want entertainment at home? You can watch television or play music. However, people don’t realize this comfort comes with harmful effects too. All the mentioned appliances contribute to noise pollution. They disturb the natural rhythm of life and fall in the category of a pollutant.
+What causes Noise Pollution?
+As the world is turning to technology for their comfort, it is, at the same time, harming us. The industries no matter how big or small contribution to noise pollution. The equipment they use like compressors, exhaust fans, generators and more produce a lot of noise.
+Similarly, the ever-increasing use of automobiles is a major cause of this pollution. Not only automobiles but other transport vehicles like airplanes, buses, bikes, trucks and more also are a part of it. People honk unnecessarily in the traffic and listen to loud music on the way which creates high levels of noise.
+Furthermore, social events like marriages, parties, and religious functions in places like clubs, pubs, temples, halls and more create a lot of nuisance in the residential areas. In addition, the construction activities like mining, the building of flyovers, bridges and more also produce great noise.
+Get the huge list of more than 500 Essay Topics and Ideas
+The Damaging Impact of Noise Pollution
+Though it may not be talked about much, noise pollution has a serious impact on the lives of living beings. Firstly, noise pollution causes a number of hearing problems. High levels of noise damage the Eardrums and sometimes even cause loss of hearing.
+Similarly, it reduces the ear sensitivity to the sounds that the human body requires to regulate our rhythm of the body. Moreover, it also affects our psychological health. It may not be evident instantly, but in the long run, it changes our behavior.
+When your sleep gets disturbed or you constantly have headaches because of too much noise, you tend to experience fatigue and even migraines.
+Not only humans but noise pollution also impacts wildlife too. For instance, pets become aggressive or afraid when they hear a loud noise. It is one of the main reasons why crackers are not encouraged when pets are around.
+In short, we must make people aware of the impact of noise pollution. Likewise, we must encourage them to adopt ways that do not contribute to noise pollution. If everyone starts doing the same on an individual level, we will surely be able to reduce noise pollution to a great extent.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “What are the causes of noise pollution?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Noise pollution is caused by a lot of activities. Many industries produce a lot of noise through their equipment. Furthermore, social events and construction activities contribute to the levels of noise.”
+}
+}, {
+“@type”: “Question”,
+“name”: “How does noise pollution impact us?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”Noise pollution causes a lot of hearing problems. Furthermore, it affects our body rhythm and psychological health as well.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

@@ -1,0 +1,36 @@
+500+ Words Essay on Science and Technology
+Essay on Science and Technology: Science and technology are important parts of our day to day life. We get up in the morning from the ringing of our alarm clocks and go to bed at night after switching our lights off. All these luxuries that we are able to afford are a resultant of science and technology. Most importantly, how we can do all this in a short time are because of the advancement of science and technology only. It is hard to imagine our life now without science and technology. Indeed our existence itself depends on it now. Every day new technologies are coming up which are making human life easier and more comfortable. Thus, we live in an era of science and technology.
+Essentially, Science and Technology have introduced us to the establishment of modern civilization. This development contributes greatly to almost every aspect of our daily life. Hence, people get the chance to enjoy these results, which make our lives more relaxed and pleasurable.
+Benefits of Science and Technology
+If we think about it, there are numerous benefits of science and technology. They range from the little things to the big ones. For instance, the morning paper which we read that delivers us reliable information is a result of scientific progress. In addition, the electrical devices without which life is hard to imagine like a refrigerator, AC, microwave and more are a result of technological advancement.
+Furthermore, if we look at the transport scenario, we notice how science and technology play a major role here as well. We can quickly reach the other part of the earth within hours, all thanks to advancing technology.
+In addition, science and technology have enabled man to look further than our planet. The discovery of new planets and the establishment of satellites in space is because of the very same science and technology.
+Similarly, science and technology have also made an impact on the medical and agricultural fields. The various cures being discovered for diseases have saved millions of lives through science. Moreover, technology has enhanced the production of different crops benefitting the farmers largely.
+Get the huge list of more than 500 Essay Topics and Ideas
+India and Science and Technology
+Ever since British rule, India has been in talks all over the world. After gaining independence, it is science and technology which helped India advance through times. Now, it has become an essential source of creative and foundational scientific developments all over the world. In other words, all the incredible scientific and technological advancements of our country have enhanced the Indian economy.
+Subsequently, science and technology have assisted in advancing various fields including Mathematics, Astrophysics, Space technology, Nuclear energy and more. Some fine examples of these developments are the railway system, smartphones, the metro system, and many more.
+Looking at the most recent achievement, India successfully launched Chandrayaan 2. This lunar exploration of India has earned critical acclaim from all over the world. Once again, this achievement was made possible due to science and technology.
+In conclusion, we must admit that science and technology have led human civilization to achieve perfection in living. However, we must utilize everything in wise perspectives and to limited extents. Misuse of science and technology can produce harmful consequences. Therefore, we must monitor the use and be wise in our actions.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “List some benefits of science and technology.”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Science and Technology helps us to function daily comfortably. It has given us railway systems, TV, refrigerator, internet and more.”
+}
+}, {
+“@type”: “Question”,
+“name”: “Name the most recent achievement of India with the help of science and technology.”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”India most recently launched Chandrayaan 2 successfully. This lunar exploration helped India make a distinctive place amongst the other developed countries.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

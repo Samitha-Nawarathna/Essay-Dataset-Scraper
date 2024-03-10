@@ -1,0 +1,46 @@
+500+ Words Essay on Environmental Pollution
+Essay on Environmental Pollution– Environment is the surroundings in which we live. But the contamination of our environment by pollutants is environmental pollution. The current stage of the earth that we are seeing is the cause of centuries of exploitation of earth and its resources.
+Moreover, the earth cannot restore its balance because of environmental pollution. The human force has created and destroyed life on earth. Human plays a vital role in the degradation of the environment.
+Effect of pollution on the health
+The environmental pollution, directly and indirectly, affects the lives of humans and other species. These living beings co-existed on the earth with human from centuries.
+Effect on Air
+Carbon and dust particles string up with the air in the form of smog, damaging respiratory system, haze, and smoke. These are caused by the emission of industrial and manufacturing units by burning of fossil fuels, vehicle combustion of carbon fumes.
+Moreover, these factors affect the immune system of birds which become a carrier of viruses and infections.
+Besides, it also affects the body system and body organs.
+Get the huge list of more than 500 Essay Topics and Ideas
+Effects on Land, Soil, and Food
+Human’s organic and chemical both waste harm the land and soil with its decomposition. Also, it introduces some chemical in the soil and water. Land and soil pollution mainly caused by the use of pesticides, fertilizers, soil erosion, and crop residues.
+Effect on Water
+Water gets contaminated easily with any pollutant whether it is human waste or chemical discharge from factories. Also, we use this water for irrigation of crops and drinking. But, because of infection they become contaminated too. Besides, an animal dies because they drink this same contaminated water.
+Moreover, around 80% of pollutants of land such as chemical, industrial and agricultural waste end up in the water bodies.
+Besides, these water bodies ultimately connect to the sea which means it indirectly pollutes the biodiversity of the sea.
+Effect on Food
+Because of contaminated soil and water, the crop or agricultural produce also get toxic. Furthermore, this contaminated food effect our health and organs. From the beginning of their life, these crops are laced with chemical components that reach a mass level until the time of harvest.
+Effect on Climate
+Climate change is also a cause of environmental pollution. Also, it affects the physical and biological components of the ecosystem.
+Moreover, ozone depletion, greenhouse gases, global warming all these climate changes are a cause of environmental pollution.
+Besides, their effect can be fatal for our upcoming generations. The irregular extreme cold and hot climate affect the ecological system of the earth.
+Furthermore, some unstable climate changes are earthquakes, famine, smog, carbon particles, shallow rain or snow, thunderstorms, volcanic eruption, and avalanches are all because of climate change that happens all because of environmental pollution.
+In conclusion, man has exploited the wealth of nature at the cost of his and environments health. Also, the effect that is now emerging rapidly is all because of the activities of humans for hundreds or thousands of years.
+Above all, if we wish to survive and continue our life on earth then we have to take measures. These measures will help is securing our as well as our next generation future.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Explain environmental pollution in easy language.”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “When some harmful chemical and substances get mixed in the environment which changes the natural order of things is called environmental pollution.”}
+}, {
+“@type”: “Question”,
+“name”: “Is the food that we eat is safe to eat?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”In today’s world every food that grows on the land is either contaminated by chemicals directly or indirectly. We use this food for our consumption. So, we can say that the food we eat is not safe for consumption.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

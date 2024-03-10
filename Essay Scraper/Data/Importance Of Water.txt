@@ -1,0 +1,39 @@
+500+ Words Essay on Importance of Water
+Water is the basic necessity for the functioning of all life forms that exist on earth. It is safe to say that water is the reason behind earth being the only planet to support life. This universal solvent is one of the major resources we have on this planet. It is impossible for life to function without water. After all, it makes for almost 70% of the earth.
+However, despite its vast abundance, water is very much limited. It is a non-renewable resource. In addition, we need to realize the fact that although there is an abundance of water, not all of it is safe to consume. We derive some very essential uses from the water on a daily basis.
+Significance of water
+If we talk about our personal lives, water is the foundation of our existence. The human body needs water for the day to day survival. We may be able to survive without any food for a whole week but without water, we won’t even survive for 3 days. Moreover, our body itself comprises of 70% water. This, in turn, helps our body to function normally.
+Thus, the lack of sufficient water or consumption of contaminated water can cause serious health problems for humans. Therefore, the amount and quality of water which we consume is essential for our physical health plus fitness.
+Further, our daily activities are incomplete without water. Whether we talk about getting up in the morning to brush or cooking our food, it is equally important. This domestic use of water makes us very dependent on this transparent chemical.
+In addition, on a large scale, the industries consume a lot of water. They need water for almost every step of their process. It essential for the production of the goods we use every day.
+If we look beyond human uses, we will realize how water plays a major role in every living beings life. It is the home of aquatic animals. From a tiny insect to a whale, every organism needs water to survive.
+Therefore, we see how not only human beings but plants and animals too require water. The earth depends on water to function. We cannot be selfish and use it up for our uses without caring about the environment.
+Get the huge list of more than 500 Essay Topics and Ideas
+A world without water
+Water is not only required for our survival but for a healthy and happy life as well. Everyone has seen the scenario of water-deprived countries like Africa, where citizens are leading a miserable life. It is time for everyone to wake up and realize the urgency of conserving water.
+In other words, a world without water would make the human race impossible to last. The same can be said for all the animals and plants. In fact, the whole earth will suffer without water.
+Firstly, the greenery will soon diminish. When earth won’t get water, all the vegetation will die and turn into barren land. The occurrence of different seasons will soon cease. The earth will be caught in one big endless summer.
+Furthermore, the home of aquatic animals will be taken from them. That means no fishes and whales for us to see. Most importantly, all forms of living organisms will go extinct if we do not conserve water right away.
+In conclusion, unnecessary usage of water must be stopped at once. Every single person must work to conserve water and restore the balance. If not, we all know what the consequences are going to be.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Why is water important?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Water is essential for survival for all living organisms. We need it to lead a healthy and happy life.”
+}
+}, {
+“@type”: “Question”,
+“name”: “What will happen to earth without water?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”Without water, the earth will turn barren. The vegetation will die and so will the living organisms including humans, plants and animals.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

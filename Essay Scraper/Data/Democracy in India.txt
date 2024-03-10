@@ -1,0 +1,38 @@
+500+ Words Essay on Democracy in India
+Essay on Democracy in India – First of all, democracy refers to a system of government where the citizens exercise power by voting. Democracy holds a special place in India. Furthermore, India without a doubt is the biggest democracy in the world. Also, the democracy of India is derived from the constitution of India. After suffering at the hands of British colonial rule, India finally became a democratic nation in 1947. Most noteworthy, Indian democracy since independence is infused with the spirit of justice, liberty, and equality.
+Features of Indian Democracy
+Sovereignty is a vital feature of Indian democracy. Sovereignty refers to the full power of a governing body over itself without outside interference. Moreover, people can exercise power in Indian democracy. Most noteworthy, people of India elect their representatives. Moreover, these representatives remain responsible for common people.
+The democracy in India works on the principle of political equality. Furthermore, it essentially means all citizens are equal before the law. Most noteworthy, there is no discrimination on the basis of religion, caste, creed, race, sect, etc. Hence, every Indian citizen enjoys equal political rights.
+Rule of the majority is an essential feature of Indian democracy. Moreover, the party which wins the most seats forms and runs the government. Most noteworthy, no-one can object to support of the majority.
+Another feature of Indian democracy is federal. Most noteworthy, India is a union of states. Furthermore, the states are somewhat autonomous. Moreover, the states enjoy freedom in certain matters.
+Collective responsibility is a notable feature of Indian democracy. The council of Ministers in India is collectively responsible to their respective legislatures. Therefore, no minister alone is responsible for any act of their government.
+Indian democracy works on the principle of formation of opinion. Furthermore, the government and its institutions must work on the basis of public opinion. Most noteworthy, public opinion must be formed on various matters in India. Moreover, the Legislature of India provides an appropriate platform to express public opinion.
+Get the huge list of more than 500 Essay Topics and Ideas
+Ways to Strengthen Democracy in India
+First of all, people must stop having a blind belief in the media. Many times the news reported by media is out of context and exaggerated. Most noteworthy, some media outlets may propagate the propaganda of a particular political party. Therefore, people must be careful and cautious when accepting media news.
+Another important way to strengthen the Indian democracy is to reject the consumer mentality in elections. Several Indians view national elections like consumers buying a product. Most noteworthy, elections should make Indians feel like participants rather than separatists.
+People in India should make their voices heard. Furthermore, people must try to communicate with their elected official all year-round instead of just during elections. Therefore, citizens must write, call, email, or attend community forums to communicate with their elected official. This would surely strengthen Indian democracy.
+Huge voter turnouts is really an efficient way to strengthen democracy in India. People must avoid hesitation and come out to vote. Most noteworthy, large voter turnout would signify a substantial involvement of the common people in Indian politics.
+In conclusion, the democracy in India is something very precious. Furthermore, it is a gift of the patriotic national leaders to the citizens of India. Most noteworthy, the citizens of this country must realize and appreciate the great value of democracy. The democracy in India is certainly unique in the world.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “State any two features of Indian democracy?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Two features of Indian democracy are the rule of the majority and collective responsibility.”
+}
+}, {
+“@type”: “Question”,
+“name”: “State any one way to strengthen democracy in India?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”One way to strengthen democracy in India is to reject the consumer mentality in elections.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

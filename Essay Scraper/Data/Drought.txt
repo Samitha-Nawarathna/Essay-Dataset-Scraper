@@ -1,0 +1,36 @@
+500+ Words Essay on Drought
+Drought is a dangerous condition which decreases the quality of life. It is termed as a natural disaster with harmful effects. A drought usually occurs when a region faces a shortage of water. This is mainly due to lesser rainfalls. In addition, droughts have proven to be fatal for mankind and wildlife as well.
+Moreover, drought is the most dangerous for a farmer. As they do not have an ample supply of water, their crops dry out. This becomes a reason for worry as it is their sole income. Furthermore, drought also leads to various other problems for the environment and mankind.
+Causes of Drought
+Drought is caused due to various reasons. One of the main reasons is deforestation. When there will be no trees, the water on land will evaporate at a faster rate. Similarly, it lessens the soil capacity to hold water resulting in evaporation.
+Moreover, lesser trees also mean lesser rainfall which eventually leads to drought.
+Furthermore, as the climate is changing, the water bodies are drying up. This results in a lower flow of surface water. Therefore, when the rivers and lakes will dry out, how will the people get water? In addition, global warming is a major cause of this. The greenhouse gas emitted causes the earth’s temperature to rise. Thus, it results in higher evaporation rates.
+Subsequently, excessive irrigation is also a great cause of droughts. When we use water irresponsibly, the surface water dries up. As it does not get ample time to replenish, it causes drought.
+Get the huge list of more than 500 Essay Topics and Ideas
+Impact of Drought
+Drought is a serious disaster which impacts the whole of mankind, wildlife, and vegetation greatly. Moreover, a region which experiences drought requires a lot of time to recover from the disaster. It is a severe condition which interferes with the quality and functioning of life.
+Most importantly, the agriculture sector suffers the most at the hands of drought. For instance, farmers face a loss of crop production, livestock production. Moreover, they experience plant disease and wind erosion. Similarly, they also have to face heavy financial losses. Their financial condition worsens and they end up in debt. This also leads to higher rates of depression and suicides.
+Furthermore, wildlife also suffers. They do not get sources of water to drink from. In addition, when forest fires happen due to droughts, they also lose their habitats and life. Just like any natural disaster, droughts also result in inflation of prices. The basic products become expensive. The poor people do not get access to essential foods due to high rates. Subsequently, droughts also degrade the quality of the soil. This result in poor or no yielding of crops.
+In short, drought is definitely one of the most catastrophic natural disasters. It causes loss of life, vegetation and gives rise to other deadly problems like famine. The citizens and government must join hands to prevent droughts to save thousands of lives. This joint effort can help save the world from such a catastrophe.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “What are the causes of a drought?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Drought is caused by a number of reasons. Mostly, it is due to human activities only like excessive irrigation. Above all, droughts happen due to deforestation, low surface water flow, global warming and more.”
+}
+}, {
+“@type”: “Question”,
+“name”: “How does drought impact the world?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”Drought impacts the world very severely. It has a major impact on mankind, wildlife, and vegetation. It causes agricultural loss, financial loss, as well as wildlife loss. Moreover, it causes inflation in prices and degrades the soil. In other words, it puts the safety of thousands of lives at risk.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

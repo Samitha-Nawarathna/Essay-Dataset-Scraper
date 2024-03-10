@@ -1,0 +1,38 @@
+500+ Words Essay on Independence Day
+One of the most memorable days in Indian history is 15th August. It’s the day on which the Indian sub-continent got independence after a long struggle. India only has three national festivals that are celebrated by the whole nation as one. One being the Independence Day (15th August) and the other two being Republic Day (26th January) and Gandhi Jayanti (2nd October). After independence, India became the largest democracy in the world. We fought very hard to get our independence from the Britishers. In this essay on Independence Day, we are going to discuss the history and importance of Independence Day.
+History of Our Independence Day
+For almost two centuries the Britishers ruled over us. And the citizen of the country suffered a lot due to these oppressors. British officials treat us like slaves until we manage to fight back against them.
+We struggled for our independence but work tirelessly and selflessly under the guidance of our leaders Jawahar Lal Nehru, Subhash Chandra Bose, Mahatma Gandhi, Chandra Shekhar Azad, and Bhagat Singh. Some of these leaders choose the path of violence while some choose non-violence. But the ultimate aim of these was to drive out the Britishers from the country. And on 15th August 1947, the long-awaited dream come true.
+Why We Celebrate Independence Day?
+To relive the moment and to enjoy the spirit of freedom and independence we celebrate Independence Day. Another reason is to remember the sacrifices and lives we have lost in this struggle. Besides, we celebrated it to remind us that this freedom that we enjoy is earned the hard way.
+Apart from that, the celebration wakes up the patriot inside us. Along with celebration, the young generation is acquainted with the struggles of the people who lived at that time.
+Get the huge list of more than 500 Essay Topics and Ideas
+Activities on Independence Day
+Although it’s a national holiday the people of the country celebrate it with great enthusiasm. Schools, offices, societies, and colleges celebrate this day by organizing various small and big events.
+Every year at Red Fort the Prime Minister of India host the national flag. In the honor of the occasion, 21 gunshots are fired. This is the begging of the main event. This event is later on followed by an army parade.
+The school and colleges organize cultural events, fancy dress competitions, speech, debate, and quiz competition.
+Importance of Independence Day
+Every Indian holds a different viewpoint about Indian Independence. For some, it’s a reminder of the long struggle while for youngsters it stands for the glory and honor of the country. Above all, we can see the feeling of patriotism across the country.
+The Indian’s celebrate Independence Day with a feeling of nationalism and patriotism across the country. On this day every citizen echoes with festive feeling and pride in the diversity and unity of the people. It’s not only a celebration of Independence but also of the unity in diversity of the country.
+  {
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Who was the main leader of the Independence Struggle?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “There is no single leader whom we can call the leader there were many. But the most notable are Mahatma Gandhi, Jawahar Lal Nehru, Subhash Chandra Bose, and Bhagat Singh. Besides some of them opt for non-violence and some for violence.”
+}
+}, {
+“@type”: “Question”,
+“name”: “How India became a Democratic Country?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”When our leaders saw the treatment of our people by Britishers then they decided to make India a democratic country. But this was not the only reason there was far greater reason than that, for which the leaders make this decision.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp

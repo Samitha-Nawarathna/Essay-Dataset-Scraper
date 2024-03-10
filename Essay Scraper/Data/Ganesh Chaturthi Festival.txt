@@ -1,0 +1,36 @@
+500+ Words Essay on Ganesh Chaturthi
+Ganesh Chaturthi is one of the most prominent festivals of India. People of India wait the whole year for this festival eagerly. Although it is celebrated all over the country, in the state of Maharashtra it is celebrated with the most enthusiasm.
+Ganesh Chaturthi is a Hindu festival which holds utmost importance in the religion. This festival is celebrated following the Hindu Mythology which says that Ganesh Chaturthi is the birthday of the Lord Ganesha. Hindus refer to Lord Ganesha as the remover of all obstacles. People believe that Lord Ganesha comes every year with prosperity and success.
+Furthermore, they welcome Lord Ganesha in their homes with this festival with the belief that he will remove all their sufferings. Ganesh Chaturthi sparks joy all over the country and unties people with celebrations.
+The specialty of Ganesha Chaturthi
+Ganesh Chaturthi is celebrated for a whole 11 days. It begins on the Chaturthi when people install the statue of Lord Ganesha in their homes and temples. This festival ends on Anant Chaturdashi with Ganesh Visarjan. The devotees of the Lord Ganesha offer their prayers to God. They sing devotional songs for him and recited various mantras in his praise. They perform aartis in favour of the lord and seek his blessings on them.
+Most importantly, they offer Lord Ganesha sweets. Ganesha Chaturthi especially calls for Modak. Devotees offer Lord Ganesha with Modak, which is the lord’s favorite dessert. Modaks are sweet dumplings which people make with a filling of coconut and jaggery. They either fry them or steam them. People at homes and sweet shops make this sweet delicacy. They are seen around Ganesha Chaturthi mostly and are a huge hit amongst children.
+Get the huge list of more than 500 Essay Topics and Ideas
+Celebrations of Ganesh Chaturthi
+This 11-day long festival begins with people getting up in the morning and bathing. They buy new clothes for this festival and wear these clean clothes in the morning after bathing. They follow the traditional rituals of chanting mantras and songs.
+Early on, Ganesh Chaturthi was celebrated in a few families. Later on, it spread all over and thus began the installation of idols and immersion in the water. This marked the beginning of making Ganesh Chaturthi a larger than life festival.
+In other words, the idol immersion denotes freedom from evil and sufferings. People set up pandals make glorious statues of Lord Ganesha. Towards the end of the festival when the visarjan is about to take place, people carry out a full-fledged procession. People come out in hundreds and thousands and dance their way to the rivers and oceans.
+When Ganesh Chaturthi ends, they pray for the return of Lord Ganesha every year. They look forward to this festival every year. The final immersion of Lord Ganesha’s statue in the river or ocean marks the end of Ganesh Chaturthi.
+In short, Ganesh Chaturthi is a fun-filled festival in honour of Lord Ganesha. People all over India thoroughly enjoy it. All the devotees of Lord Ganesha come together irrespective of their differences of caste and colour. Ganesh Chaturthi spreads joy and unites people all over.
+{
+“@context”: “https://schema.org”,
+“@type”: “FAQPage”,
+“mainEntity”: [{
+“@type”: “Question”,
+“name”: “Why do we celebrate Ganesh Chaturthi?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”: “Ganesh Chaturthi celebrates the birth anniversary of Lord Ganesha. People welcome him in their homes with the intention to get rid of their sufferings.”
+}
+}, {
+“@type”: “Question”,
+“name”: “What is Lord Ganesha’s favourite dessert?”,
+“acceptedAnswer”: {
+“@type”: “Answer”,
+“text”:”Lord Ganesha’s favourite dessert is Modak. It is a sweet dumpling which people fill with coconut and jaggery. It is the specialty of Ganesh Chaturthi. Everyone from kids to adults relishes this dish and makes it at their homes as an offering to Lord Ganesha.”}
+}]
+}
+Share with friends
+Facebook
+Twitter
+WhatsApp
